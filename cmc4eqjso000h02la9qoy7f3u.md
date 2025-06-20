@@ -4,6 +4,7 @@ seoDescription: "Learn DevOps automation for smarter software delivery with IaC,
 datePublished: Fri Jun 20 2025 06:06:56 GMT+0000 (Coordinated Universal Time)
 cuid: cmc4eqjso000h02la9qoy7f3u
 slug: day1-unleashing-the-power-of-devops-automation-scaling-and-infrastructure
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750400043148/93f6adbf-4348-49e6-8d7a-a8253c631cd4.jpeg
 tags: learning, automation, devops, devops-articles, devops-journey, happy-learning, 90daysofdevops-chanllenge
 
 ---
