@@ -1,1 +1,1 @@
-This is week 2 challenfge
+This is week 2 challenge
